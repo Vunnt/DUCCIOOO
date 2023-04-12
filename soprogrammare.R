@@ -35,3 +35,7 @@ plot(alessio, sherika, cex=2, col="blue", pch=11, xlab="shark bite", ylab="gonor
 
 # Correlation
 cor(alessio, sherika)
+
+# Eta
+eta <- c(22, 24, 22, 24, 23, 22, 32, 23, 26, 23, 28, 22, 25)
+summary(eta)
